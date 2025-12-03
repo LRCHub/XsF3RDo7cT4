@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "サヨナラの意味",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-03T15:08:40.308360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サヨナラの意味",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_サヨナラの意味_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_サヨナラの意味_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_サヨナラの意味_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サヨナラの意味～off vocal ver.～",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/04_サヨナラの意味~off_vocal_ver.~_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サヨナラの意味",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/05_サヨナラの意味_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サヨナラの意味",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/06_サヨナラの意味_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_05_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_06_サヨナラの意味_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味   ~ aichun.co ~",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_07_サヨナラの意味_~_aichun.co_~_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "サヨナラの意味 ~off vocal ver.~",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_08_サヨナラの意味_~off_vocal_ver.~_乃木坂46.txt"
+    }
+  ]
+}
